@@ -7,3 +7,7 @@
 <a><img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-e80505.svg?logo=jenkins&logoColor=white"></a>
 
 This community seeks to promote automation and good practices on iDempiere. We use tools and techniques such as: unit tests, continuous integration and delivery, tracing and metrics, among others.
+
+### Sponsors
+
+- [INGEINT](https://odoo.ingeint.com/idempiere)
