@@ -8,6 +8,7 @@
 
 This community seeks to promote automation and good practices on iDempiere. We use tools and techniques such as: unit tests, continuous integration and delivery, tracing and metrics, among others.
 
-### Sponsors
+### Sponsors 2024
 
-- [INGEINT](https://odoo.ingeint.com/idempiere)
+<a href="https://odoo.ingeint.com/idempiere"><img alt="INGEINT" src="https://github.com/idempiere-devops/idempiere-devops-resources/blob/main/sponsors/ingeint.png?raw=true" width="140px"></a>
+<a href="https://casadelsoftware.com/"><img alt="La Casa del Software" src="https://github.com/idempiere-devops/idempiere-devops-resources/blob/main/sponsors/casadelsoftware.png?raw=true" width="140px"></a>
