@@ -8,6 +8,10 @@
 
 This community seeks to promote automation and good practices on iDempiere. We use tools and techniques such as: unit tests, continuous integration and delivery, tracing and metrics, among others.
 
+### Where to start?
+
+- [iDempiere+Jenkins Sandbox](https://github.com/idempiere-devops/idempiere-jenkins-sandbox)
+
 ### Sponsors 2024
 
 <a href="https://odoo.ingeint.com/idempiere"><img alt="INGEINT" src="https://github.com/idempiere-devops/idempiere-devops-resources/blob/main/sponsors/ingeint.png?raw=true" width="140px"></a>
