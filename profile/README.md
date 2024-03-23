@@ -14,8 +14,8 @@ This community seeks to promote automation and good practices on iDempiere. We u
 
 ### Sponsors 2024
 
-| <a href="https://odoo.ingeint.com/idempiere">INGEINT</a> |
-| - |
-| <p align="center"> <a href="https://odoo.ingeint.com/idempiere"><img alt="INGEINT" src="https://github.com/idempiere-devops/idempiere-devops-resources/blob/main/sponsors/ingeint.png?raw=true" width="140px"></a> </p> | 
-| Docker and Plugin Scaffold Support |
+| <a href="https://odoo.ingeint.com/idempiere">INGEINT</a> | <a href="https://casadelsoftware.com/">Casa del Software</a> |
+| - | - |
+| <p align="center"><img alt="INGEINT" src="https://github.com/idempiere-devops/idempiere-devops-resources/blob/main/sponsors/ingeint.png?raw=true" width="140px"></p> | <p align="center"><img alt="INGEINT" src="https://github.com/idempiere-devops/idempiere-devops-resources/blob/main/sponsors/casadelsoftware.png?raw=true" width="140px"></p> |
+| Docker and Plugin Scaffold Support | Jenkins Sandbox Support |
 
